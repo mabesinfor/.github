@@ -1,4 +1,6 @@
-# 22 - @mabesinfor
+# 22
+
+serba-serbi projek
 
 ## Projek
 
@@ -16,3 +18,6 @@ Setiap kategori memiliki folder tersendiri yang berisi projek-projek terkait.
 ## Anggota
 
 Repositori ini dikelola oleh 19 anggota kelompok. Untuk melihat daftar lengkap kontributor, silakan cek [halaman kontributor](https://github.com/orgs/mabesinfor/people).
+
+---
+&copy; 2024 mabesinfor.

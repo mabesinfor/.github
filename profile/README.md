@@ -1,4 +1,4 @@
-# 22 - Arsip Projek Informatika UNSOED 2022
+# 22 - @mabesinfor
 
 ## Projek
 
